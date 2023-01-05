@@ -1,2 +1,2 @@
 <h2>Output</h2>
-<img src="captures/capture.PNG">
+<img src="captures/Capture.PNG">
