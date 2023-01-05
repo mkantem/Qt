@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/Cancel.ico</file>
+        <file>img/e-mail.ico</file>
+        <file>img/fire v2.ico</file>
+        <file>img/flame.ico</file>
+        <file>img/hot folder.ico</file>
+        <file>img/hot table.ico</file>
+        <file>img/license.txt</file>
+        <file>img/notes.ico</file>
+        <file>img/red OK.ico</file>
+        <file>img/refresh.ico</file>
+        <file>img/report.ico</file>
+    </qresource>
+</RCC>
